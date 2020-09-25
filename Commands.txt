@@ -1,1 +1,10 @@
 We are explaining commands of GIt with intialize new project on Repositry
+
+Note:
+Git WorkFlow:
+
+*******************       ******************	  ****************
+*		  *	  *		   *      * 		 *
+*Working Directory* =>>>>>* Staging Area   *=>>>>>* Repository   *
+*                 *	  *		   *      *		 *
+*******************       ******************      ****************
