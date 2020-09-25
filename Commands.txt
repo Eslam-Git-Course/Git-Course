@@ -1,0 +1,1 @@
+We are explaining commands of GIt with intialize new project on Repositry
