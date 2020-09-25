@@ -8,3 +8,6 @@ Git WorkFlow:
 *Working Directory* =>>>>>* Staging Area   *=>>>>>* Repository   *
 *                 *	  *		   *      *		 *
 *******************       ******************      ****************
+
+Edits:
+ 1- Check Tracking Files
