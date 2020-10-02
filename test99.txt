@@ -1,3 +1,1 @@
-Hello World for AMIT
-
-
+Hello World for AMIT using nano editor
