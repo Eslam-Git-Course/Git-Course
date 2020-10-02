@@ -1,4 +1,4 @@
 create a rebase
 Setup Rebase Conflict
-Remote Edit
+Local in Edit
 
