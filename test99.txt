@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-Hello World for AMIT using nano editor 
-Add text with master branch
-=======
-Hello World for AMIT using nano editor
-Writing Conflicts
->>>>>>> newfeature
-Add
